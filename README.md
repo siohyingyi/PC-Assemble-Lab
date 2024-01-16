@@ -1,4 +1,4 @@
-# PC Assemble (Lab)
+# Reflection on PC Assemble (Lab)
 
 ![image](https://github.com/siohyingyi/PC-Assemble-Lab/assets/150785597/68730162-1b40-453f-9d21-5283b6e0ba44)
 
