@@ -14,3 +14,7 @@ Here are the simple ways in assembling the CPU
   6. Close the CPU cover and screw it using screw driver.
 
 I had learn about the architecture of a computer system, including the role of the CPU, RAM, storage devices, and how data flows between these components.
+
+There are certain things that I need to improve myself. Firstly, I need to review to the online resource before the lab so that I can familiarize myself with the tasks I will be undertaking.
+Secondly, I should communicate with my group members and discuss with them before the lab so that everyone can had a more understanding about the lab that will be undertaking later.
+Lastly, I should voice out my question to lecturer when I was not understanding so that I will not do a mistake.
